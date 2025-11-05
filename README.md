@@ -1,4 +1,4 @@
-# TIMER
+# SA 2
 ## AIM
 To write an assembly language program in 8051 microcontroller to generate a 2-second delay using Timer 0 in Mode 1 and to blink an LED connected to Port 3.7 continuously.
 ## APPARATUS REQUIRED
@@ -35,7 +35,7 @@ WAIT:       JNB TF1, WAIT
 END
 ```
 ## OUTPUT
-<img width="1262" height="728" alt="Screenshot 2025-10-25 124943" src="https://github.com/user-attachments/assets/84a4bef2-fcde-4fab-b7a6-5409dad8c576" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5581a03b-e28d-4a45-97f7-60c0b691bc30" />
 
 
 ## RESULT
